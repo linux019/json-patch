@@ -1,4 +1,4 @@
-module github.com/evanphx/json-patch/v5
+module github.com/linux019/json-patch/v5
 
 go 1.18
 
