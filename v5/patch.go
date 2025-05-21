@@ -8,7 +8,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/evanphx/json-patch/v5/internal/json"
+	"github.com/linux019/json-patch/v5/internal/json"
 )
 
 const (
